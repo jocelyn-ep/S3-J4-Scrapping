@@ -11,9 +11,9 @@ Projets dans le cadre de la formation THP : utilisation des gems "nokogiri" et "
     - mairie_christmas_spec.rb : début d'un fichier spec pour tester les méthodes
 
 
-## Acknowledgements
+## Gems
 
- - [Source]("https://rubygems.org")
+ - "https://rubygems.org"
  - gem 'rspec'
  - gem 'pry'
  - gem 'nokogiri'       
